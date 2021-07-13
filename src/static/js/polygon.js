@@ -7,7 +7,6 @@ const main = async () => {
     title: 'POLYGON Network',
     heading: ['Pool Provider', 'LP', 'Reward Tokens', 'INFO'],
     rows: [
-      ['PolyQuail           ', `<a href="polyquail_kwil"  >Various</a>`, 'KWIL         ', 'https://kwil.polyquail.finance'],
       ['Kyber DMM           ', `<a href="kyber"           >Various</a>`, 'KNC          ', 'https://dmm.exchange'],
       [
         'Quickswap           ',
@@ -431,6 +430,7 @@ const main = async () => {
       ['LoveCupidSwap       ', `<a href="cupidswaplove"   >Various</a>`, 'LOVE         ', 'https://www.lovecupidswap.live'],
       ['PharmSwap           ', `<a href="pharmswap"       >Various</a>`, 'PHARM        ', 'https://pharmswap.finance'],
       ['WorldSwap Community Edition', `<a href="worldswap_community"   >Various</a>`, 'COMMUNITY', 'https://community.worldswap.finance'],
+      ['PolyQuail           ', `<a href="polyquail_kwil"  >Various</a>`, 'KWIL         ', 'https://kwil.polyquail.finance'],
     ],
   }
 
